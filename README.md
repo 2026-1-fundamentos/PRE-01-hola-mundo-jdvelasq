@@ -5,7 +5,7 @@ Ejecute los siguientes comandos en el terminal:
 
 
 XXXXXXXXX
-
+YYYYYYYYY
 
 ```bash
 python3 -m venv .venv
